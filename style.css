@@ -1,0 +1,14 @@
+body {
+  background-color: lightgreen;
+}
+
+h1,h2 {
+  color:orange;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: gray;
+}
